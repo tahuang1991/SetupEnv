@@ -51,7 +51,7 @@
 #   -----------------------------
 # enable color support of ls and also add handy aliases
 
-fi
+
 alias cp='cp -iv'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
